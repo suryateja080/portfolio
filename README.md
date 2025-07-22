@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Teja Chennapragada - Portfolio Website
 
 A modern, responsive portfolio website built with HTML5, CSS3, and JavaScript. This portfolio showcases professional experience, skills, education, certifications, and projects in a clean, professional design inspired by modern portfolio trends.
